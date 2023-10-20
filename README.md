@@ -1,1 +1,2 @@
 # PowerBI_Dashboard_Project
+The "HR Analytics for Employee Performance and Retention" project is a strategic initiative that utilizes data-driven insights to enhance HR operations, improve employee performance, and reduce turnover. Leveraging the power of data analytics, this project aims to provide HR professionals and organizational leadership with a comprehensive view of the workforce, enabling them to make informed decisions.
